@@ -3,6 +3,7 @@ WechatBot python2.7
 
 ### 问题总结
 * 1.特定成员信息转发
+```
 #coding=utf-8
 from wxpy import *
 
@@ -24,3 +25,4 @@ def forward_boss_message(msg):
 
 # 堵塞线程
 embed()
+```
