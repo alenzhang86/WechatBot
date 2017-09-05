@@ -25,6 +25,7 @@ def forward_boss_message(msg):
 
 # 堵塞线程
 embed()
+```
 * 2.特定消息频率检测
 ```
 #coding:utf-8
@@ -46,4 +47,4 @@ result = detect_freq_limit(action)
 #查看结果
 print(result)
 '''
-
+返回的结果为(限制频率，限制周期)
