@@ -46,5 +46,5 @@ result = detect_freq_limit(action)
 
 #查看结果
 print(result)
-'''
+```
 返回的结果为(限制频率，限制周期)
