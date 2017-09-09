@@ -1,14 +1,4 @@
 # WechatBot
-
-
-.. image:: https://badge.fury.io/py/wxpy.svg
-    :target: https://badge.fury.io/py/wxpy
-
-.. image:: https://img.shields.io/pypi/pyversions/wxpy.svg
-        :target: https://github.com/youfou/wxpy
-
-.. image:: https://readthedocs.org/projects/wxpy/badge/?version=latest
-    :target: http://wxpy.readthedocs.io/zh/latest/?badge=latest
 ### 问题总结
 * 1.特定成员信息转发
 ```
