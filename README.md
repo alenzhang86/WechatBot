@@ -1,5 +1,5 @@
 # WechatBot
-WechatBot python2.7
+WechatBot python3.5 wxpy
 
 ### 问题总结
 * 1.特定成员信息转发
